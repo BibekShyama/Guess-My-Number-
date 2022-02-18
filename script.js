@@ -1,5 +1,4 @@
 'use strict';
-// Project 1
 // to guess my number by computer
 // const myNumber = Number(prompt('What is your number between 1-10?'));
 // // console.log(myNumber);
